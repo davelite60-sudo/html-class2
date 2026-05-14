@@ -1,38 +1,9 @@
 *{
-    text-align: center;
     margin: 0;
 }
-        p{
-            color: blueviolet;
-        }h2{
-            text-align: center;color: brown;
-        }img{
-            width: 585px;
-        }
 
-        h1{
-            color: blue;
-            font-size:50px;
-             background-color: pink;
-       padding:10px ;
-       width: 485px;
-            }
-
-    .btn1{
-        background-color: blue;
-            border: none;
-            padding: 10px;
-            width: 70px;
-            border-radius: 9px;
-    }
-#list3{color: brown;
-
+h1{
+    color: blue;
+    text-align: center;
+    
 }
-h1,h2,h3{
-    font: size 30px;
-    color: green;
-    font-style: italic
-
-
-}
-
